@@ -1,0 +1,12 @@
+.circleci/configv2.yml
+.venv/
+Pipfile
+Pipfile.lock
+local-*
+.idea/
+.idea/*
+config/compiled_pipelines.yaml
+*.pyc
+.DS_Store
+notes.md
+venv
